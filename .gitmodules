@@ -12,3 +12,7 @@
 [submodule "dkstat"]
 	path = dkstat
 	url = https://github.com/rOpenGov/dkstat
+[submodule "mapDK"]
+	path = mapDK
+	url = https://github.com/sebastianbarfort/mapDK
+	registered = false
