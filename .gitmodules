@@ -5,3 +5,4 @@
 [submodule "dawaR"]
 	path = dawaR
 	url = https://github.com/aleksanderbl29/dawaR
+	subdir = universe-release
