@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "aleksandeR"]
 	path = aleksandeR
-	url = https://github.com/aleksanderbl29/dawaR
+	url = https://github.com/aleksanderbl29/aleksandeR
 [submodule "dawaR"]
 	path = dawaR
 	url = https://github.com/aleksanderbl29/dawaR
