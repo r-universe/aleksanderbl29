@@ -12,3 +12,7 @@
 [submodule "hexsession"]
 	path = hexsession
 	url = https://github.com/luisDVA/hexsession
+[submodule "rsthemes"]
+	path = rsthemes
+	url = https://github.com/aleksanderbl29/rsthemes
+	branch = catppuccin
