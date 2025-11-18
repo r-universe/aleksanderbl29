@@ -16,7 +16,3 @@
 	path = ipapi
 	url = https://github.com/hrbrmstr/ipapi
 	registered = false
-[submodule "rsthemes"]
-	path = rsthemes
-	url = https://github.com/aleksanderbl29/rsthemes
-	branch = catppuccin
