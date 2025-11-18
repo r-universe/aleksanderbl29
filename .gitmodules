@@ -12,7 +12,3 @@
 [submodule "hexsession"]
 	path = hexsession
 	url = https://github.com/luisDVA/hexsession
-[submodule "ipapi"]
-	path = ipapi
-	url = https://github.com/hrbrmstr/ipapi
-	registered = false
